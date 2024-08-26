@@ -1,0 +1,5 @@
+2024-08-25 10:15:23 INFO Starting the application
+2024-08-25 10:16:45 WARN Low memory warning
+2024-08-25 10:17:10 ERROR Unable to connect to database
+2024-08-25 10:20:00 INFO Application shutdown
+2024-08-25 10:21:30 INFO Backup completed successfully
